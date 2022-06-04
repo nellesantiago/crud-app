@@ -1,4 +1,4 @@
-### ✨ [Online Diary App]
+### ✨ Online Diary App
 
 >> ###### Features:
 >> - Created and designed with Ruby on Rails
@@ -16,6 +16,4 @@
 
 ![Create New Entry Page](app/assets/images/create.png)
 
->> ###### Sources:
->> - Web Dev Simplified's [Youtube Tutorial](https://www.youtube.com/watch?v=Y-GkMjUZsmM)
->> - Design inspiration: [Iliana Stavreva's Project](https://www.behance.net/gallery/85650953/TicTacToe-Mini-Game)
+
