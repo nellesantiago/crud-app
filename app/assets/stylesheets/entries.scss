@@ -220,7 +220,7 @@ body {
     display: flex;
     width: 100%;
     max-width: 70%;
-    margin: 20px auto;
+    margin: 20px auto 0 auto;
     flex-direction: column;
 
     .container {
@@ -230,7 +230,7 @@ body {
     .box {
       width: 100%;
       max-width: 80%;
-      margin: 170px auto 0 auto;
+      margin: 30px auto 0 auto;
       font-size: 20px;
 
       span {
@@ -239,7 +239,7 @@ body {
     }
 
     .options {
-      margin: 50px 0;
+      margin: 0;
       display: flex;
       justify-content: center;
 
@@ -374,7 +374,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-top: 50px;
+    margin-top: 70px;
     width: 100%;
   }
 }
