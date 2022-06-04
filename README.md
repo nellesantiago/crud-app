@@ -1,24 +1,21 @@
-# README
+### ✨ [Online Diary App]
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+>> ###### Features:
+>> - Created and designed with Ruby on Rails
+>> - Create new entry
+>> - View and edit entries
+>> - Delete entry
 
-Things you may want to cover:
+![Start Page](app/assets/images/start-page.png)
 
-* Ruby version
+![All Entries Page](app/assets/images/entries.png)
 
-* System dependencies
+![Entry Page](app/assets/images/entry.png)
 
-* Configuration
+![Edit Entry Page](app/assets/images/edit.png)
 
-* Database creation
+![Create New Entry Page](app/assets/images/create.png)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+>> ###### Sources:
+>> - Web Dev Simplified's [Youtube Tutorial](https://www.youtube.com/watch?v=Y-GkMjUZsmM)
+>> - Design inspiration: [Iliana Stavreva's Project](https://www.behance.net/gallery/85650953/TicTacToe-Mini-Game)
