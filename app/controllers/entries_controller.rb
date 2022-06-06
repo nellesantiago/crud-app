@@ -1,5 +1,5 @@
 class EntriesController < ApplicationController
-    def notebook
+    def page
     end
 
     def index
